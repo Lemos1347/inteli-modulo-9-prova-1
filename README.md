@@ -18,4 +18,6 @@ E por fim o monitor dos dados:
 ```
 
 # Resultado
-<img width="1611" alt="Captura de Tela 2024-03-08 às 10 53 46" src="https://github.com/Lemos1347/inteli-modulo-9-prova-1/assets/99190347/8492c148-2626-4898-8210-75ddb8a234c1">
+
+https://github.com/Lemos1347/inteli-modulo-9-prova-1/assets/99190347/3ae5fc0d-1d1f-431d-8a8d-3171cd8efc1a
+
