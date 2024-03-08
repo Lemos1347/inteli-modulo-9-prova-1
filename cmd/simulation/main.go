@@ -28,7 +28,7 @@ func main() {
 	emulator3 := repository.NewEmulator(geladeira1)
 	emulator4 := repository.NewEmulator(gelareira2)
 
-	emulator1.Start()
+	go emulator1.Start()
 	go emulator2.Start()
 	go emulator3.Start()
 
